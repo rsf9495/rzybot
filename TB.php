@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 
 use Telegram\Bot\Api;
 
-$telegram = new Api('180869068:AAEjtAbKZmoyl77eNG97elqrBtoFEF4yY40');
+$telegram = new Api('287012447:AAGb1CdvxcSKH-b4sUcPkF7X79F7Rba34o8');
 
 $updates = $telegram->getUpdates();
 
